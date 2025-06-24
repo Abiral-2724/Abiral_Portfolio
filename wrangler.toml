@@ -1,0 +1,8 @@
+name = "abiral2724"
+type = "typescript"
+account_id = "19a3a6961cd01976919a4e6a53922dc6 "
+workers_dev = true
+compatibility_date = "2025-06-23"
+
+[site]
+bucket = ".open-next/assets"
